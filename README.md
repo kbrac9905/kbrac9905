@@ -1,5 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 **I’m currently working on**<br>
+I'm currently working on full-stack web and mobile applications, integrating **React.js** with **Next.js** for seamless user experiences, and using **MongoDB** and **SQLite** for efficient data management. I’m also exploring server-side development with **Express.js** and deploying applications using **Nginx**.<br>
+
+👯 **I’m looking to collaborate on**<br>
+I’m eager to collaborate on projects involving modern web and mobile development, particularly those using **React Native**, **Expo**, and **TailwindCSS**. I’m also interested in contributing to open-source projects and innovative startups looking to create impactful digital products.<br>
+
+🤝 **I’m looking for help with**<br>
+I’m currently looking for advice and collaboration on improving my cloud deployment skills and optimizing app performance. I’d love to learn more about serverless architectures and cloud services like **AWS** or **Azure**.<br>
+
+🌱 **I’m currently learning**<br>
+I'm diving deeper into **TypeScript** to enhance my coding skills and learning more about **GraphQL** for better handling of data in modern web apps. I’m also exploring **Docker** for containerization and deployment.<br>
+
+💬 **Ask me about**<br>
+Feel free to ask me about anything related to **React.js**, **Next.js**, **Express.js**, or **mobile app development** with **React Native**. I also enjoy discussing **web performance optimization** and **best practices** in coding.<br>
+
+⚡ **Fun fact**<br>
+I once built a simple app that helps people track their daily water intake, and it became a fun way to motivate my friends to stay hydrated. It’s amazing how small projects can have such an impact!
+
 
 
 ## 🌐 Socials:
