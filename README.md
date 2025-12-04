@@ -30,6 +30,6 @@ Here are some of my favorite projects:
 
 ### 📫 Contact Me
 
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 Email: kbrac9905@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/kbrac9905)
 - 🌐 [Portfolio Website](https://yourwebsite.com)
