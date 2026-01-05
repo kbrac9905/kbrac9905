@@ -5,9 +5,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/Next-JS-blue)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/Next-JS-blue)
+![MongoDB](https://img.shields.io/badge/Mongo-DB-green)
 
 
 ---
