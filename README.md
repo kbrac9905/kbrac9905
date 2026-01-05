@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![NextJS](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/Next-Js_like-blue)
+![MongoDB](https://img.shields.io/badge/Next-JS-blue)
 
 
 ---
